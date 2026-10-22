@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20👋&fontSize=40" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SAUMY%20CHAURASIA%20👋&fontSize=40" alt="Header Banner" />
 </p>
 
 <!-- Animated Typing Subtitle -->
